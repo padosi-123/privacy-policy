@@ -1,4 +1,6 @@
-**Privacy Policy**
+***Privacy Policy***
+
+**INTRODUCTION**
 
 Padosi built the Padosi app as a Free app. This SERVICE is provided by Padosi at no cost and is intended for use as is.
 
